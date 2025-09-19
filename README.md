@@ -85,7 +85,14 @@ An **interactive dashboard** built with **Dash & Plotly** for exploring the Tita
 Add screenshots here after running the app:
 
 ```
-
+/Docs/Figure_1.png
+/Docs/Figure_2.png
+/Docs/Figure_3.png
+/Docs/Figure_4.png
+/Docs/Figure_5.png
+/Docs/Figure_7.png
+/Docs/Figure_8.png
+/Docs/Figure_9.png
 ```
 
 ---
